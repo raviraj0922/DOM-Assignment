@@ -1,4 +1,4 @@
-** changes were made trought the script.js
+** changes were made through the script.js
 ```
 // Inserting the new anchor tag into the div
 const div = document.querySelector(".myDiv")
