@@ -1,11 +1,13 @@
 ## JavaScript Questions and Answers
 **01. Create a variable.js file and declare variables and assign string, boolean, undefined and null data types, Display all the value with their data type.**
 *Ans:-*
-```// Declaring variables with different data types
+```
+// Declaring variables with different data types
 const name = "Ravi"; // String
 const isAwesome = true; // Boolean
 let notDefined; // Undefined
 const emptyValue = null; // Null
+```
 
 // Displaying the values and data types
 console.log("Name:", name, typeof name);
