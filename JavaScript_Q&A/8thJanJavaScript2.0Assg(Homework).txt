@@ -18,7 +18,7 @@ console.log("Empty value:", emptyValue, typeof emptyValue);
 **********************Code**********************
 
 This code will create the following output:
-Name: Bard string
+Name: Ravi string
 Is awesome? true boolean
 Not defined: undefined undefined
 Empty value: null object
